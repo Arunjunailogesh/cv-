@@ -1,0 +1,69 @@
+body{
+  text-align: center;
+  font-family: cursive;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+  font-size: 200%;
+
+}
+
+
+
+.R{
+  color: red;
+}
+
+.a{
+  color: red;
+}
+
+.k{
+  color: orange;
+}
+
+.e{
+  color: orange;
+}
+
+.s{
+  color: yellow;
+}
+
+.h{
+  color: yellow;
+}
+
+.a2{
+  color: green;
+}
+
+.r{
+  color: green;
+}
+
+.i{
+  color: blue;
+
+}
+
+.h2{
+  color:blue;
+}
+
+.a3{
+  color:indigo;
+}
+
+.r2{
+
+  color: indigo;
+}
+
+.a4{
+  color:violet;
+}
+
+.n{
+  color:violet;
+}
